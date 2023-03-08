@@ -43,4 +43,4 @@ Console.WriteLine("Максимальный эллемент является п
 ## Experience
 ### Programming tasks in the University.
 ### Secondary education at the gymnasium. Now I'm studying in Belarussian-Russian University.
-## English level - B1
+## English level - B1.
