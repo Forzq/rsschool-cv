@@ -40,7 +40,7 @@ if (max_index == n - 1)
 Console.WriteLine("Максимальный эллемент является последним или единственным в массиве");
 }
 ```
-##Experience
-###Programming tasks in the University.
-###Secondary education at the gymnasium. Now I'm studying in Belarussian-Russian University.
-##English level - B1
+## Experience
+### Programming tasks in the University.
+### Secondary education at the gymnasium. Now I'm studying in Belarussian-Russian University.
+## English level - B1
